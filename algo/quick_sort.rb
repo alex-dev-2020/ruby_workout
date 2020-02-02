@@ -8,7 +8,12 @@ n = gets.chomp.to_i
 size = rand(n)
 list = (1...size).to_a
 list_r = list.sort_by{rand}
-puts 'now ordered'
-puts list 
-puts ' and now random'
+# puts 'now ordered'
+# puts list 
+puts ' our random'
 puts list_r
+puts 'first of random'
+puts list_r.first
+group = list_r.group_by{ |n| n <=> list_r.first }
+puts 'our group'
+puts group
