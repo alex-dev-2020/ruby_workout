@@ -9,7 +9,7 @@ some practice &amp; training
   
   - - [algo folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/algo) реализация базовых алгоритмов на Ruby
   
-        [q_sort_main.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/algo/q_sort_main.rb) quick sort через вызов метода [quick_sort](https://github.com/alex-dev-2020/ruby_workout/blob/master/algo/quick_sort.rb) на Ruby
+        [q_sort_main.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/algo/q_sort_main.rb) quick sort через вызов метода [quick_sort](https://github.com/alex-dev-2020/ruby_workout/blob/master/algo/quick_sort.rb) с генерацией массива случайных чисел на Ruby
         
         [quick_sort.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/algo/quick_sort.rb) - сам метод
   
