@@ -15,6 +15,6 @@ some practice &amp; training
         
   - - [stuff folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/stuff)  sandbox
  
-       [array_to_list.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/stuff/array_to_list.rb) вывод текстовых значений из массива в нумерованный список - для текстовых меню проекта Railroad (routes, stations)
+       [array_to_list.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/stuff/array_to_list.rb) вывод текстовых значений из массива в нумерованный список - для текстовых меню проекта Railroad (routes,trains, stations)
   
   
