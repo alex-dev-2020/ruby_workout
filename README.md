@@ -17,6 +17,6 @@ some practice &amp; training
  
        [array_to_list_1st.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/stuff/array_to_list_1st.rb) вывод текстовых значений из массива в нумерованный список - для текстовых меню проекта Railroad (routes, trains, stations)
        
-       [array_to_list_2nd.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/stuff/array_to_list_2nd.rb) оптимизированная реализация предыдущего метода через '.each.with_index(1)' с оффсетом объяснение [здесь](https://stackoverflow.com/questions/5646390/ruby-each-with-index-offset/19567086)
+       [array_to_list_2nd.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/stuff/array_to_list_2nd.rb) оптимизированная реализация предыдущего метода через `.each.with_index(1)` с оффсетом объяснение [здесь](https://stackoverflow.com/questions/5646390/ruby-each-with-index-offset/19567086)
   
   
