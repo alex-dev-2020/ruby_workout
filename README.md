@@ -6,6 +6,14 @@ some practice &amp; training
   - - [mthds folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/mthds) различные методы Ruby
   
         [select_mthd.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/select_mthd.rb)  пример использования метода . select  для выбора четных чисел из массива
+        
+        [txt_menu folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/mthds/txt_menu) методы для работы с текстовыми меню проекта Railroad
+        
+       [txt_menu_main.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/txt_menu_main.rb) - цикл Главное  меню
+        
+        [select_txt_menu.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/select_txt_menu.rb) - метод select для Главного меню
+        
+
   
   - - [algo folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/algo) реализация базовых алгоритмов на Ruby
   
