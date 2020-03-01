@@ -11,7 +11,7 @@ some practice &amp; training
         
        [txt_menu_main.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/txt_menu_main.rb) - цикл Главное  меню
         
-        [select_txt_menu.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/select_txt_menu.rb) - метод select для Главного меню
+        [select_txt_menu.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/select_txt_menu.rb) - метод .select для Главного меню
         
 
   
