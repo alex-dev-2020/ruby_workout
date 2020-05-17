@@ -9,6 +9,8 @@ some practice &amp; training
         
         [txt_menu folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/mthds/txt_menu) методы для работы с текстовыми меню проекта Railroad
         
+       [yml_menu folder](https://github.com/alex-dev-2020/ruby_workout/tree/master/mthds/yml_menu) - изпользование модуля YAML для работы с текстовыми меню проекта Railroad
+       
        [txt_menu_main.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/txt_menu_main.rb) - цикл Главное  меню
         
         [select_txt_menu.rb](https://github.com/alex-dev-2020/ruby_workout/blob/master/mthds/txt_menu/select_txt_menu.rb) - метод .select для Главного меню
